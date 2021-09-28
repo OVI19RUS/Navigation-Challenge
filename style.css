@@ -73,6 +73,11 @@ header {
     text-transform: uppercase;
 }
 
+.nav__link:hover,
+.nav__link:focus {
+  opacity: 0.5;
+}
+
 .nav__list {
     margin: 0;
     padding: 0;
